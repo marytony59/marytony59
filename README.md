@@ -8,7 +8,7 @@ I'm a Data Analyst with a background in Financial Accounting now building impact
 - PowerBI
 
  ## My Projects
-  - [TSA Gadget Sales Analysis] (....)
+  - [TSA Gadget Sales Analysis] (https://github.com/marytony59/Sales-Performance-Analysis)
 
  ## Currently Learning
     - Advanced SQL
