@@ -1,4 +1,4 @@
-## Hi, i'm Mary!
+## Hi, I'm Mary!
 
 I'm a Data Analyst with a background in Financial Accounting now building impactful projects with Excel, PowerBI and SQL.
 
