@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, i'm Mary!
 
-<!--
-**marytony59/marytony59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with a background in Financial Accounting now building impactful projects with Excel, PowerBI and SQL.
 
-Here are some ideas to get you started:
+## Tools I Work With
+- Microsoft Excel
+- SQl
+- PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## My Projects
+  - [TSA Gadget Sales Analysis] 
+
+ ## Currently Learning
+    - Advanced SQL
+    - Python for Data Science
+
+## Let's Connect!
+[linkedin](https://www.linkedin.com/in/mary-ekpenyong)
+
+      
